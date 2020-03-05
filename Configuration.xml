@@ -15,7 +15,7 @@
   <Property Name="PinIconsToTaskbar" Value="TRUE" />
   <Property Name="SCLCacheOverride" Value="0" />
   <Property Name="AUTOACTIVATE" Value="1" />
-  <Property Name="FORCEAPPSHUTDOWN" Value="FALSE" />
+  <Property Name="FORCEAPPSHUTDOWN" Value="TRUE" />
   <Property Name="DeviceBasedLicensing" Value="0" />
   <Updates Enabled="FALSE" />
   <RemoveMSI />
