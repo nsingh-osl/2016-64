@@ -8,6 +8,7 @@
       <ExcludeApp ID="OneNote" />
       <ExcludeApp ID="Lync" />
       <ExcludeApp ID="Teams" />
+      <ExcludeApp ID="Publisher" />
     </Product>
   </Add>
   <Property Name="SharedComputerLicensing" Value="1" />
